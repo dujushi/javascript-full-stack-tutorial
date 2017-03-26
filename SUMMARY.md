@@ -6,3 +6,8 @@
   * [本地服务器](hello-world/local.md)
   * [Digital Ocean](hello-world/digital_ocean.md)
   * [网站域名](hello-world/dns.md)
+* [前端](coming-soon/README.md)
+  * [本地预览](coming-soon/local.md)
+  * [服务器输出html](coming-soon/node.md)
+  * [PM2](coming-soon/pm2.md)
+  * [网站监控](coming-soon/monitor.md)
