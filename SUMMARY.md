@@ -11,3 +11,6 @@
   * [服务器输出html](coming-soon/node.md)
   * [PM2](coming-soon/pm2.md)
   * [网站监控](coming-soon/monitor.md)
+* [数据库](mysql/README.md)
+  * [安装](mysql/install.md)
+  * [Node操作MySQL](mysql/node.md)
