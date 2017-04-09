@@ -7,7 +7,7 @@ npm install mysql
 ```
 创建文件mysql-insert.js:
 ``` js
-const mysql      = require('mysql');
+const mysql = require('mysql');
 // 创建连接对象
 // 请自行替换用户名和密码
 const connection = mysql.createConnection({
