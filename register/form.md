@@ -5,7 +5,7 @@
 ``` html
 <html>
   <header>
-    <title>WeChat机器宝宝</title>
+    <title>微信机器宝宝</title>
     <style>
     body {
       color: gray;
@@ -15,7 +15,7 @@
     </style>
   </header>
   <body>
-    <h1>欢迎使用WeChat机器宝宝</h1>
+    <h1>欢迎使用微信机器宝宝</h1>
     <!-- 点击注册按钮，表单以post的方式，把数据发送给/register-post -->
     <form method="post" action="/register-post">
       邮箱:
@@ -56,7 +56,7 @@ http.createServer( (req, res) => {
 ``` html
 <html>
   <header>
-    <title>WeChat机器宝宝</title>
+    <title微信机器宝宝</title>
     <style>
     body {
       color: gray;
@@ -82,7 +82,7 @@ http.createServer( (req, res) => {
     </script>
   </header>
   <body>
-    <h1>欢迎使用WeChat机器宝宝</h1>
+    <h1>欢迎使用微信机器宝宝</h1>
     <!-- 点击注册按钮，表单以post的方式，把表单数据发送给/register -->
     <form method="post" action="/register" onsubmit="return validateForm()">
       邮箱:

@@ -14,7 +14,7 @@
     </style>
   </head>
   <body>
-    <h1>Wechat机器宝宝</h1>
+    <h1>微信机器宝宝</h1>
     <img src="https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png" />
     <br />
     <a href="/register">注册</a>
