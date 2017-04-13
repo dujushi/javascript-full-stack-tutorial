@@ -5,6 +5,7 @@
 ```
 npm install mysql
 ```
+### 插入(CREATE)
 创建文件mysql-insert.js:
 ``` js
 const mysql = require('mysql');
@@ -44,8 +45,7 @@ connection.end();
 ```
 node mysql-insert.js
 ```
-添加记录。
-
+### 读取(READ)
 创建文件mysql-read.js:
 ``` js
 const mysql      = require('mysql');
@@ -70,8 +70,8 @@ connection.end();
 ```
 node mysql-read.js
 ```
-查看记录。
 
+### 更新(UPDATE)
 创建文件mysql-update.js:
 ``` js
 const mysql      = require('mysql');
@@ -101,8 +101,8 @@ connection.end();
 ```
 node mysql-update.js
 ```
-更新记录。
 
+### 删除(DELETE)
 创建文件mysql-delete.js:
 ``` js
 const mysql      = require('mysql');
@@ -132,4 +132,3 @@ connection.end();
 ```
 node mysql-delete.js
 ```
-删除记录。
